@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RTCLib</string>
+
+    <string name="room_id_caption">Room ID:</string>
+
+</resources>
